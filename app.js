@@ -28,7 +28,7 @@ function operar() {
 
           res = div.toFixed(1).replace(/\.0+$/, "");
         } else {
-          alert("No se puede dividir entre cero pendejo");
+          alert("No se puede dividir entre cero");
           var res = "";
         }
 
